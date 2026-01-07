@@ -126,7 +126,7 @@ final class SupportedEntities {
       'civicrm entity name' => 'contact',
       'label property' => 'display_name',
       'permissions' => [
-        'view' => ['view all contacts'],
+        'view' => ['access content'],
         'edit' => ['edit all contacts'],
         'update' => ['edit all contacts'],
         'create' => ['edit all contacts'],
